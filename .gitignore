@@ -2,3 +2,4 @@
 venv/
 
 # Other files
+.ipynb_checkpoints/
